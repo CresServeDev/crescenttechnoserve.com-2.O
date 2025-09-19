@@ -9078,7 +9078,7 @@ span {
 .gt-section-title-2 h6::before {
   position: absolute;
   content: "";
-  background: linear-gradient(90deg, #00130B 0%, #FF0808 100%);
+  background: linear-gradient(90deg, #00130B 0%, #004958 100%);
   width: 44px;
   height: 1px;
   left: 0;
@@ -9093,7 +9093,7 @@ span {
 .gt-section-title-2 h6::after {
   position: absolute;
   content: "";
-  background: linear-gradient(90deg, #FF0808 0%, #00130B 100%);
+  background: linear-gradient(90deg, #004958 0%, #00130B 100%);
   width: 44px;
   height: 1px;
   right: 0;
