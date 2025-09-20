@@ -1242,6 +1242,7 @@ span {
 }
 .gt-brand-box {
   border: 1px solid rgba(255, 255, 255, 0.1);
+  margin-top: 20px;
   background: var(--gt-bg);
   padding: 30px 10px;
 }
@@ -1854,6 +1855,8 @@ span {
 .gt-cta-download-app-wrapper .gt-cta-content .gt-cta-text {
   font-size: 18px;
   color: var(--gt-white);
+  /* color: #004958; */
+
   margin-top: 30px;
 }
 @media (max-width: 1199px) {
