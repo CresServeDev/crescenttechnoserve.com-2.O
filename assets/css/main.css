@@ -9050,7 +9050,7 @@ span {
   position: relative;
   z-index: 99;
   margin-bottom: 30px;
-  margin-top: -6px;
+  margin-top: 20px;
 }
 @media (max-width: 767px) {
   .gt-section-title-2 {
