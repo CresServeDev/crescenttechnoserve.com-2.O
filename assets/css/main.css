@@ -6187,7 +6187,7 @@ span {
   display: inline-block;
 }
 .gt-hero-2 .gt-hero-content .gt-hero-button .gt-theme-btn.gt-style-border:hover .gt-text-btn {
-  border: 1px solid rgba(189, 5, 5, 0.8);
+  border: 1px solid #004958;
 }
 .gt-hero-2 .gt-hero-content .gt-hero-button .gt-theme-btn.gt-style-border:hover .gt-text-btn::before {
   background-color: var(--gt-theme);
