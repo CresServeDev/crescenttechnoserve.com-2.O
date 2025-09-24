@@ -2895,6 +2895,7 @@ span {
   color: var(--gt-theme);
 }
 .gt-footer-widget-wrapper .gt-footer-widget-items .gt-footer-app {
+  cursor: no-drop;
   display: flex;
   align-items: center;
   gap: 30px;
